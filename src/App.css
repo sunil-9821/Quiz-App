@@ -1,0 +1,8 @@
+.cursorOption {
+  cursor: pointer;
+  background: lightgray;
+  color: #333;
+}
+.cursorOption:hover {
+  background: rgb(190, 190, 190);
+}
